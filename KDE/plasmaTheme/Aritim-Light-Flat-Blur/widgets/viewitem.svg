@@ -326,14 +326,14 @@
     </g>
     <rect
        style="fill:#4a617a;fill-opacity:1;fill-rule:nonzero;stroke-width:0.333333;opacity:0.508"
-       id="selected_hover-center"
+       id="selected+hover-center"
        width="5"
        height="5"
        x="199.99998"
        y="134.99998"
        inkscape:label="#center" />
     <g
-       id="selected_hover-topright"
+       id="selected+hover-topright"
        inkscape:label="#topright"
        transform="matrix(2,0,0,2,-85.000026,-125.00002)"
        style="opacity:0.508">
@@ -344,7 +344,7 @@
          sodipodi:nodetypes="cccc" />
     </g>
     <g
-       id="selected_hover-topleft-0"
+       id="selected+hover-topleft-0"
        inkscape:label="#topleft"
        transform="matrix(2,0,0,2,-60.000016,-125.00001)"
        style="opacity:0.508">
@@ -355,7 +355,7 @@
          sodipodi:nodetypes="cccc" />
     </g>
     <g
-       id="selected_hover-bottomleft"
+       id="selected+hover-bottomleft"
        inkscape:label="#bottomleft"
        transform="matrix(2,0,0,2,-60.000016,-150.00001)"
        style="opacity:0.508">
@@ -368,7 +368,7 @@
          id="g1009-9-5" />
     </g>
     <g
-       id="selected_hover-bottomright"
+       id="selected+hover-bottomright"
        inkscape:label="#bottomright"
        transform="matrix(2,0,0,2,-85.000016,-150.00001)"
        style="opacity:0.508">
@@ -379,7 +379,7 @@
          sodipodi:nodetypes="cccc" />
     </g>
     <g
-       id="selected_hover-top"
+       id="selected+hover-top"
        inkscape:label="#top"
        transform="matrix(0.33333333,0,0,2,156.66666,-125.00001)"
        style="opacity:0.508">
@@ -398,7 +398,7 @@
       </g>
     </g>
     <g
-       id="selected_hover-right"
+       id="selected+hover-right"
        inkscape:label="#right"
        transform="matrix(2,0,0,0.33333333,-85.000016,91.66666)"
        style="fill-opacity:1;opacity:0.508">
@@ -411,7 +411,7 @@
          y="130" />
     </g>
     <g
-       id="selected_hover-bottom"
+       id="selected+hover-bottom"
        inkscape:label="#bottom"
        transform="matrix(0.33333333,0,0,2,156.66666,-150.00001)"
        style="opacity:0.508">
@@ -424,7 +424,7 @@
          y="145" />
     </g>
     <g
-       id="selected_hover-left"
+       id="selected+hover-left"
        inkscape:label="#left"
        transform="matrix(2,0,0,0.33333333,-60.000016,91.66666)"
        style="fill-opacity:1;opacity:0.508">
