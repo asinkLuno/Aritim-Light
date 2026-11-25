@@ -1,0 +1,18 @@
+{
+    "KPackageStructure": "KWin/Aurorae",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "puof@protonmail.com",
+                "Name": "Mrcuve0"
+            }
+        ],
+        "Category": "Aurorae Theme",
+        "Description": "The only light theme I want. This Aurorae Theme is based on Breezemite Aurorae Theme",
+        "EnabledByDefault": true,
+        "Id": "Aritim-Light",
+        "License": "GPLv3",
+        "Name": "Aritim-Light",
+        "Version": "0.5"
+    }
+}

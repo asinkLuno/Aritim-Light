@@ -1,0 +1,19 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "puof@protonmail.com",
+                "Name": "Mrcuve0"
+            }
+        ],
+        "Category": "Plasma Theme",
+        "Description": "The only light theme I want",
+        "EnabledByDefault": true,
+        "Id": "Aritim-Light-Flat-Blur",
+        "License": "GPLv2",
+        "Name": "Aritim-Light-Flat-Blur",
+        "Version": "1.1",
+        "Website": "https://github.com/Mrcuve0"
+    },
+    "X-Plasma-API": "5.0"
+}
